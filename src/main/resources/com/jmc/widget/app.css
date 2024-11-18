@@ -1,0 +1,21 @@
+.body {
+    -fx-background-color: #87ceeb;
+    -fx-background-image: url("./images/three.jpg");
+    -fx-background-size: cover;
+}
+
+.label {
+    -fx-font-size: 1.4em;
+    -fx-font-fill: blue;
+}
+
+.label.desc {
+    -fx-font-size: 1.2em;
+    -fx-text-fill: gray;
+}
+
+.label.temp {
+    -fx-font-size: 4.0em;
+    -fx-text-fill: green;
+    -fx-font-weight: bold;
+}
